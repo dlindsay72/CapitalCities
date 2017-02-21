@@ -726,7 +726,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="mapKit" destination="Ta3-bp-YZv" id="sI8-ND-K7W"/>
+                        <outlet property="mapView" destination="Ta3-bp-YZv" id="E7x-l6-GCG"/>
                         <outlet property="questionLabel" destination="vme-Ah-3go" id="GlH-Cm-sBJ"/>
                         <outlet property="scoreLabel" destination="M1i-Da-6R7" id="MAN-Km-5U7"/>
                     </connections>
